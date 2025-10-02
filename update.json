@@ -1,6 +1,6 @@
 {
-  "versionCode": 250930,
-  "versionName": "1.1",
+  "versionCode": 251002,
+  "versionName": "1.2",
   "url": "https://github.com/quantv25/quantv/releases/latest/download/QuanTV.apk",
-  "changelog": "• Cập nhật thông tin Ứng dụng"
+  "changelog": "• Bổ sung cơ chế Auto-recover.• Sửa lỗi kẹt tín hiệu/đường truyền (rebuffer lâu, rơi khỏi live window…) nên đứng hình và không tự hồi"
 }
